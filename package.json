@@ -1,0 +1,23 @@
+{
+  "name": "cypress-2nd-tab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/cypress-2nd-tab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/cypress-2nd-tab/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/cypress-2nd-tab#readme",
+  "devDependencies": {
+    "cypress": "12.17.3"
+  }
+}
